@@ -7,6 +7,7 @@ package Principal;
 import java.util.Random;
 import java.util.Scanner;
 
+//Edicion Sergio
 /**
  *
  * @author franc
